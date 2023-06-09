@@ -1,10 +1,8 @@
-package Forum;
+package Forum1;
 
-import java.util.Scanner;
-
-public class Forum1 {
+public class Scanner {
     public static void inputScanner() {
-        Scanner scanner = new Scanner(System.in);
+        java.util.Scanner scanner = new java.util.Scanner(System.in);
 
         //input string
         // String: Menggunakan scanner.nextLine() untuk membaca variable berupa string atau kalimat.
